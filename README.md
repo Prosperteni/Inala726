@@ -80,7 +80,7 @@ RESTful API built with TypeScript, Express, Prisma, and PostgreSQL.
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/jacob-inala-prince-fullstack-developer/)
+- [LinkedIn](https://www.linkedin.com/in/jacob-inala-prince-fullstack-developer/)
 - Email: inalajacob740@gmail.com
 
 ---
