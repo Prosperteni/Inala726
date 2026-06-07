@@ -57,7 +57,7 @@
 
 ## 🌟 Featured Projects
 
-### 🏠 Smart Home Dashboard
+### 🏠 Smart Home Dashboard [Link](https://github.com/Inala726/angular)
 Web application for monitoring and controlling IoT devices.
 
 ### 🎵 React Native Music Player
@@ -67,20 +67,19 @@ Mobile music player supporting playlists, favorites, and audio playback.
 RESTful API built with TypeScript, Express, Prisma, and PostgreSQL.
 
 ---
-
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://streak-stats.demolab.com/?user=Inala726&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Inala726&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Inala726&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Your LinkedIn URL](https://www.linkedin.com/in/jacob-inala-prince-fullstack-developer/)
+- [LinkedIn](https://www.linkedin.com/in/jacob-inala-prince-fullstack-developer/)
 - Email: inalajacob740@gmail.com
 
 ---
